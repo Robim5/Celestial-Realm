@@ -1,0 +1,17 @@
+D:\PAP\projcelestialrealm\projcelestialrealm\bin\x64\test\projcelestialrealm.exe.config
+D:\PAP\projcelestialrealm\projcelestialrealm\bin\x64\test\projcelestialrealm.exe
+D:\PAP\projcelestialrealm\projcelestialrealm\bin\x64\test\MySql.Data.dll
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.csproj.AssemblyReference.cache
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.Alterar.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.Conexao.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.Form1.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.listaanime.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.listauser.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.Login.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.perfil.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.principal.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.Properties.Resources.resources
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.csproj.GenerateResource.cache
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.csproj.CoreCompileInputs.cache
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.csproj.CopyComplete
+D:\PAP\projcelestialrealm\projcelestialrealm\obj\x64\test\projcelestialrealm.exe
